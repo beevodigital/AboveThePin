@@ -12,5 +12,6 @@ namespace AboveThePin.Models
     public string Name { get; set; }
     public string PhoneNumber { get; set; }
     public int Par { get; set; }
+    public int NumberOfHoles { get; set; }
   }
 }

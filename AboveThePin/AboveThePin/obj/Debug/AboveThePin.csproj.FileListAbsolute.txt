@@ -40,7 +40,11 @@ c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\Microsoft.Owin.Security.Twit
 c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\Microsoft.Web.Infrastructure.dll
 c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\Newtonsoft.Json.dll
 c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\Owin.dll
+c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\System.Net.Http.Formatting.dll
 c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\System.Web.Helpers.dll
+c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\System.Web.Http.dll
+c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\System.Web.Http.Owin.dll
+c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\System.Web.Http.WebHost.dll
 c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\System.Web.Mvc.dll
 c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\System.Web.Optimization.dll
 c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\System.Web.Razor.dll
@@ -54,7 +58,11 @@ c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\Microsoft.AI.Web.xml
 c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\Microsoft.AI.WindowsServer.xml
 c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\Microsoft.ApplicationInsights.xml
 c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\Newtonsoft.Json.xml
+c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\System.Net.Http.Formatting.xml
 c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\System.Web.Helpers.xml
+c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\System.Web.Http.xml
+c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\System.Web.Http.WebHost.xml
 c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\System.Web.Mvc.xml
 c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\System.Web.Optimization.xml
 c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\System.Web.Razor.xml
@@ -62,7 +70,6 @@ c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\System.Web.WebPages.xml
 c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\System.Web.WebPages.Deployment.xml
 c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\System.Web.WebPages.Razor.xml
 c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\Antlr3.Runtime.pdb
-c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\Newtonsoft.Json.xml
 c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\EntityFramework.xml
 c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\EntityFramework.SqlServer.xml
 c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\Microsoft.AspNet.Identity.Core.xml
@@ -77,9 +84,10 @@ c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\Microsoft.Owin.Security.OAut
 c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\Microsoft.Owin.Security.Google.xml
 c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\Microsoft.Owin.Security.Twitter.xml
 c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\Projects\AboveThePin\AboveThePin\AboveThePin\bin\System.Web.Http.Owin.xml
+c:\Projects\AboveThePin\AboveThePin\AboveThePin\obj\Debug\AboveThePin.csprojResolveAssemblyReference.cache
 c:\Projects\AboveThePin\AboveThePin\AboveThePin\obj\Debug\AboveThePin.dll
 c:\Projects\AboveThePin\AboveThePin\AboveThePin\obj\Debug\AboveThePin.pdb
-c:\Projects\AboveThePin\AboveThePin\AboveThePin\obj\Debug\AboveThePin.Migrations.InitialCreate.resources
+c:\Projects\AboveThePin\AboveThePin\AboveThePin\obj\Debug\AboveThePin.Migrations.initial.resources
 c:\Projects\AboveThePin\AboveThePin\AboveThePin\obj\Debug\AboveThePin.csproj.GenerateResource.Cache
-c:\Projects\AboveThePin\AboveThePin\AboveThePin\obj\Debug\AboveThePin.Migrations.InitialCourse.resources
-C:\Projects\AboveThePin\AboveThePin\AboveThePin\obj\Debug\AboveThePin.csprojResolveAssemblyReference.cache
+c:\Projects\AboveThePin\AboveThePin\AboveThePin\obj\Debug\AboveThePin.Migrations.initialTableStub.resources
