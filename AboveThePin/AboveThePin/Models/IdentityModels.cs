@@ -34,6 +34,9 @@ namespace AboveThePin.Models
             return new ApplicationDbContext();
         }
 
-        public DbSet<Course> Courses { get; set; }
+    public DbSet<Course> Courses { get; set; }
+    public DbSet<Round> Rounds { get; set; }
+    public DbSet<Score> Scores { get; set; }
+    public DbSet<Hole> Holes { get; set; }
   }
 }
